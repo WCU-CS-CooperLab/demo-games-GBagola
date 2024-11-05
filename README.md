@@ -6,3 +6,5 @@ A template repository to publish games
 3. [SpaceRocksBroken](brokenSpaceRocks_09_20)
 4. [MiniGolf before UI](minigolf_09_25)
 5. [Infinite Flyer 10/21](Infinite_10_21)
+6. [Project3 Phase1](project3-phase1)
+7. [Project3 Phase2](project3-phase2)
