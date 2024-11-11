@@ -8,3 +8,4 @@ A template repository to publish games
 5. [Infinite Flyer 10/21](Infinite_10_21)
 6. [Project3 Phase1](project3-phase1)
 7. [Project3 Phase2](project3-phase2)
+8. [Team Project 01 Treasure Beyond the Stone](TeamProject01)
