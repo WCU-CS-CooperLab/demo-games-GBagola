@@ -13,3 +13,5 @@ A template repository to publish games
 10. [Space Rocks Fixed But Not Finished](space_rocks_fixed_not_finished)
 11. [Space Rocks COMPLETE/Project1-Phase1](spacerocks_finished)
 12. [Project1-Phase2/Crazy Driver](project1_phase2_crazydriver)
+13. [Project2-Phase1/Finished Coin Dash](project2_phase1)
+14. [Project2-Phase2](project2_phase2)
